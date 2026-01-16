@@ -61,3 +61,9 @@ Seorang pengguna melakukan pencarian menggunakan "https://www.google.com/search?
 
 Kata Penutup
 Sejauh ini, kita telah membahas apa itu SIEM, bagaimana SIEM membantu analis SOC, dan bagaimana seharusnya digunakan. Nanti dalam kursus ini, kita akan membahas cara menganalisis peringatan yang dibuat di SIEM.
+
+Pertanyaan
+Benar
+
+Saat Anda menutup peringatan, dari saluran (tab pada halaman pemantauan) mana Anda dapat mengaksesnya?
+closed alerts
